@@ -1,0 +1,9 @@
+[submodule "source/feind-collection"]
+	path = source/feind-collection
+	url = https://github.com/byzantinistik-koeln/feind-collection
+[submodule "source/authority"]
+	path = source/authority
+	url = https://github.com/byzantinistik-koeln/authority
+[submodule "source/stylesheets/sigidoc"]
+	path = source/stylesheets/sigidoc
+	url = https://github.com/SigiDoc/Stylesheets
